@@ -2,7 +2,7 @@
 
 
 **I'm  Alam Mahadika, I'm  a:** 
-- 🔎 [**Researcher**](https://psm.umy.ac.id/id/alam-mahadika/)
+- 🔎 [**Junior Researcher**](https://psm.umy.ac.id/id/alam-mahadika/)
 - 📣 [**Activist**](https://kisp-id.org/)
 - 👨‍🎓 **Student**  
 - 📊 **Data Enthusiast** exploring **Big Data**, **statistical analysis**, **data tutorials**, and **data innovation** using **R, Python**
