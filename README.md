@@ -3,8 +3,9 @@
 
 **I'm  Alam Mahadika, I'm  a:** 
 - 🔎 **Researcher**
+- 📣 [**Activist**](https://kisp-id.org/)
 - 👨‍🎓 **Student**  
-- 📊 **Data Enthusiast** exploring **Big Data**, **statistical analysis**, and **data innovation** using **R, Python**
+- 📊 **Data Enthusiast** exploring **Big Data**, **statistical analysis**,**data tutorials**, and **data innovation** using **R, Python**
 
 ## 🔍 What I Do:
 - 🧑‍🔬 Research on **Social Political Phenomena**  
