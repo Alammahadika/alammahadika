@@ -1,10 +1,9 @@
-## Hi there 👋
+## Hi there 👋 
 
 
-**Alammahadika/alammahadika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 👨‍🎓 **Student** 
-- 🔎 **Researcher** 
+**I am Alam Mahadika, i am as:** 
+- 🔎 **Researcher**
+- 👨‍🎓 **Student**  
 - 📊 **Data Enthusiast** exploring **Big Data**, **statistical analysis**, and **data innovation** using **R, Python**
 
 ## 🔍 What I Do:
