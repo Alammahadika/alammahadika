@@ -8,7 +8,7 @@
 - 📊 **Data Enthusiast** exploring **Big Data**, **statistical analysis**, and **data innovation** using **R, Python**
 
 ## 🔍 What I Do:
-- 🧑‍🔬 Research on **Social Movements, Governance, and Public Policy**  
+- 🧑‍🔬 Research on **Social Political Phenomena**  
 - 📈 Building **data visualization** tools to understand social phenomena  
 - 🛠️ Developing open-source **big data analysis projects** to support transparency and accountability  
 
