@@ -9,7 +9,7 @@
 
 ## 🔍 What I Do:
 - 🧑‍🔬 Research on **Social Political Phenomena**  
-- 📈 Building **data analysis visualization** & **data development innovation** to understand social phenomena  
+- 📈 Building **data analysis visualization** & **data development innovation** to understand social political phenomena  
 - 🛠️ Developing open-source **big data analysis projects** to support transparency and accountability  
 
 ## 🛠️ Skills & Tools:
