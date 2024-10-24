@@ -1,7 +1,7 @@
 ## Hi there 👋 
 
 
-**I'm  Alam Mahadika, I'm  as:** 
+**I'm  Alam Mahadika, I'm  a:** 
 - 🔎 **Researcher**
 - 👨‍🎓 **Student**  
 - 📊 **Data Enthusiast** exploring **Big Data**, **statistical analysis**, and **data innovation** using **R, Python**
