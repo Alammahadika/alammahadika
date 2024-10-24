@@ -13,6 +13,6 @@
 - 🛠️ Developing open-source **big data analysis projects** to support transparency and accountability  
 
 ## 🛠️ Skills & Tools:
-- **Languages**: R, Python  
+- **Languages**: R, Python,HTML (HyperText Markup Language)   
 - **Analysis Data Tools Qualitative**: NVivo, VOSviewer
   
