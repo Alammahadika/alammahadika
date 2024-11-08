@@ -2,8 +2,8 @@
 
 
 **I'm  Alam Mahadika, I'm  a:** 
-- 🔎 [**Junior Researcher**]
-- 📣 [**Activist**]
+- 🔎 **Junior Researcher**
+- 📣 **Activist**
 - 👨‍🎓 **Student**  
 - 📊 **Data Enthusiast** exploring **Big Data**, **statistical analysis**, **data tutorials**, and **data innovation** using **R, Python**
 
