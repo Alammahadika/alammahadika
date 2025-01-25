@@ -5,7 +5,7 @@
 - 🔎 **Junior Researcher**
 - 📣 **Activist**
 - 👨‍🎓 **Student**  
-- 📊 **Data Enthusiast** exploring **Big Data**, **statistical analysis**, **data tutorials**, and **data innovation** using **R, Python, HTML**.
+- 📊 **Data Enthusiast** exploring **Big Data**, **statistical analysis**, **data tutorials**, and **data innovation** using **R & Python**.
 
 ## 🔍 What I Do:
 - 🧑‍🔬 Research on **Social Political Phenomena**.  
