@@ -12,7 +12,7 @@
 - 🚀 Build **open-source data projects** to promote transparency, innovation, and accountability.  
 
 ## 🛠️ Skills & Tools:
-- **Programming Languages**: R & Python.   
+- **Programming Languages**: HTML, R & Python.   
 - **Qualitative Data Analysis Tools**: NVivo, VOSviewer.
   
 ## 🎯 My Vision  
