@@ -3,6 +3,7 @@
 **I'm  Alam Mahadika, I'm  a:** 
 - 🔎 **Researcher**
 - 📈 **Data Analyst**
+- 💻⚙️ **Developer**
 - 📊 **Data Enthusiast** exploring **big data**, **statistical analysis**, **data tutorials**, and **data innovation** using **R & Python**.
 
 ## 💡 What I Do  
