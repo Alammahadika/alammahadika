@@ -4,7 +4,7 @@
 - 🔎 **Researcher**
 - 📈 **Data Analyst**
 - 💻 **Developer**
-- 📊 **Data Enthusiast** exploring **big data**, **statistical analysis**, **data tutorials**, and **data innovation** using **R & Python**.
+- 📊 **Data Enthusiast** exploring **big data**, **statistical analysis**, **data tutorials**, and **build packages** using **R & Python**.
 
 ## 💡 What I Do  
 - 📊 Analyze and visualize data using **R** and **Python** to support evidence-based research.  
