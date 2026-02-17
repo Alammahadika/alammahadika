@@ -3,7 +3,7 @@
 **I'm  Alam Mahadika, I'm  a:** 
 - **Researcher**
 - **Data Analyst**
-- **Developer**
+- **Vibe Developer**
 - **Data Enthusiast** exploring **big data**, **statistical analysis**, **data tutorials**, and **build packages**.
 
 ##  What I Do  
