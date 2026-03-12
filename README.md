@@ -12,6 +12,6 @@
 - Combine **quantitative** and **qualitative** approaches to explain social and political dynamics.  
 - Build **open-source data projects** to promote transparency, innovation, and accountability.  
 
-## Skills & Tools:
+##  Tools:
 - **Programming Languages**: HTML, R-Studio & Python. 
   
