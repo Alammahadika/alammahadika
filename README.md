@@ -8,8 +8,8 @@
 
 ##  What I Do  
 - Analyze and visualize data using **R** and **Python** to support evidence-based research.  
-- Conduct **data-driven studies** on governance, digital transformation, and public policy.  
-- Combine **quantitative** and **qualitative** approaches to explain social and political dynamics.  
+- Conduct **data-driven studies** on systems, digital transformation, and decision-making processes.
+- Combine **quantitative** and **qualitative** approaches to explain social phenomena.  
 - Build **open-source data projects** to promote transparency, innovation, and accountability.  
 
 ##  Tools:
