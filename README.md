@@ -1,7 +1,7 @@
 ## Hi there 
 
 **I'm  Alam Mahadika, I'm  a:** 
-- **Researcher**
+- **Compuational Social Science Researcher**
 - **Data Analyst**
 - **Vibe Developer**
 - **Data Enthusiast** exploring **big data**, **statistical analysis**, **data tutorials**, and **build packages**.
