@@ -13,5 +13,5 @@
 - Build **open-source data projects** to promote transparency, innovation, and accountability.  
 
 ##  Tools:
-- **Programming Languages**: HTML, R-Studio & Python. 
+- **Programming Languages**: R-Studio & Python. 
   
