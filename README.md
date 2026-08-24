@@ -4,7 +4,7 @@
 - **Compuational Social Science Researcher**
 - **Data Analyst**
 - **Developer**
-- **Data Enthusiast** exploring **big data**, **statistical analysis**, **data tutorials**, and **build packages**.
+- **Data Enthusiast** exploring **big data**, **statistical analysis**, **data tutorials**, and **build packages**
 
 ##  What I Do  
 - Analyze and visualize data using **R** and **Python** to support evidence-based research.  
@@ -13,5 +13,5 @@
 - Build **open-source data projects** to promote transparency, innovation, and accountability.  
 
 ##  Tools:
-- **Programming Languages**: R-Studio & Python. 
+- **Programming Languages**: R-Studio & Python
   
